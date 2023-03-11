@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 MT2 sửa
 123456789 kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
-=======
-Goi cuon gia sinh vien ne gia 100kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
-456789
->>>>>>> 1100f852c12830a650e66d9ccee1bbeaf75ed0c7
