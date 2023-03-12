@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Goi cuon gia sinh vien ne
 456789
 
+=======
+file T2
+>>>>>>> MT2

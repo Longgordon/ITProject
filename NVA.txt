@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 buon ghe abc
 =======
 123456
 >>>>>>> origin/MT1
+=======
+buon ghe abc
+
+srctree A
+>>>>>>> MT2
