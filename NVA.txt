@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 buon ghe abc
+=======
+123456
+>>>>>>> origin/MT1
